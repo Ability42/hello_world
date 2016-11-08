@@ -1,3 +1,3 @@
 #!/usr/bin/swift
 
-print("Good Bye!")
+print("Good Bye! My friend")
