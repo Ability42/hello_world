@@ -2,3 +2,4 @@
 // ADD
 
 test line
+whoami
